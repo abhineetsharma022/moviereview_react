@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color:bg-rose-950 ;
+}
+.Header{
+    
+   
+    background-size: 1500px 80px;
+}
+.flash{
+  
+     
+    
+        animation-name: flash;
+   
+
+}
